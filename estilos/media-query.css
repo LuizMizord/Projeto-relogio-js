@@ -1,0 +1,8 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;1,400&display=swap');
+
+@media (max-width:1560px) {
+    body {
+        padding: 15px 40px;
+    }
+}
